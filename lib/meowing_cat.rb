@@ -1,1 +1,2 @@
-## code your solution here. 
+class Cat 
+  ## code your solution here. 
